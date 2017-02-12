@@ -16,4 +16,7 @@ RSpec.feature "Admins can create new states for tickets" do
 
 		expect(page).to have_content "State has been created."
 	end
+
+
+	#add a new comments
 end
